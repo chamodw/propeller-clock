@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name led)(type Legacy)(uri /Users/chamod/Documents/kicad/clock/dip/led.mod)(options "")(descr ""))
+  (lib (name discret)(type Legacy)(uri /Users/chamod/Documents/kicad/clock/dip/discret.mod)(options "")(descr ""))
+  (lib (name dip_sockets)(type Legacy)(uri /Users/chamod/Documents/kicad/clock/dip/dip_sockets.mod)(options "")(descr ""))
+  (lib (name capacitors)(type Legacy)(uri /Users/chamod/Documents/kicad/clock/dip/capacitors.mod)(options "")(descr ""))
+  (lib (name powerint)(type Legacy)(uri /Users/chamod/Documents/kicad/clock/dip/powerint.mod)(options "")(descr ""))
+  (lib (name connect)(type Legacy)(uri /Users/chamod/Documents/kicad/clock/dip/connect.mod)(options "")(descr ""))
+  (lib (name custom)(type KiCad)(uri /Users/chamod/Documents/kicad/clock/dip/IR_Slot.kicad_mod)(options "")(descr ""))
+  (lib (name custom1)(type KiCad)(uri /Users/chamod/Documents/kicad/clock/dip/custom_lib.pretty/custom_lib.pretty/IR_Slot.pretty/Untitled.pretty/IR_Slot.kicad_mod)(options "")(descr ""))
+)

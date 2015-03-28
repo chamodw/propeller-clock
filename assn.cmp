@@ -1,0 +1,227 @@
+Cmp-Mod V01 Created by CvPcb (2014-02-26 BZR 4721)-product date = 2014 November 25, Tuesday 16:40:14
+
+BeginCmp
+TimeStamp = /547442AF;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = discret:C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /547442D7;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = discret:C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /547449EF/54744AE9;
+Reference = C3;
+ValeurCmp = C;
+IdModule  = discret:C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /547443D4/547447CD;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = led:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547443D4/547447E1;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = led:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547443D4/547447F5;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = led:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547443D4/54744809;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = led:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547443D4/5474481D;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = led:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547443D4/54744831;
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = led:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547443D4/54744845;
+Reference = D7;
+ValeurCmp = LED;
+IdModule  = led:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547443D4/54744859;
+Reference = D8;
+ValeurCmp = LED;
+IdModule  = led:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547443D4/54744893;
+Reference = D9;
+ValeurCmp = LED;
+IdModule  = led:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547443D4/54744899;
+Reference = D10;
+ValeurCmp = LED;
+IdModule  = led:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547443D4/5474489F;
+Reference = D11;
+ValeurCmp = LED;
+IdModule  = led:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547443D4/547448A5;
+Reference = D12;
+ValeurCmp = LED;
+IdModule  = led:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547443D4/547448AB;
+Reference = D13;
+ValeurCmp = LED;
+IdModule  = led:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547443D4/547448B1;
+Reference = D14;
+ValeurCmp = LED;
+IdModule  = led:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547443D4/547448B7;
+Reference = D15;
+ValeurCmp = LED;
+IdModule  = led:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547443D4/547448BD;
+Reference = D16;
+ValeurCmp = LED;
+IdModule  = led:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547449EF/54744A32;
+Reference = D17;
+ValeurCmp = DIODE;
+IdModule  = discret:D4;
+EndCmp
+
+BeginCmp
+TimeStamp = /547449EF/54744A5A;
+Reference = D18;
+ValeurCmp = DIODE;
+IdModule  = discret:D4;
+EndCmp
+
+BeginCmp
+TimeStamp = /547449EF/54744A6E;
+Reference = D19;
+ValeurCmp = DIODE;
+IdModule  = discret:D4;
+EndCmp
+
+BeginCmp
+TimeStamp = /547449EF/54744A46;
+Reference = D20;
+ValeurCmp = DIODE;
+IdModule  = discret:D4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54744287;
+Reference = IC1;
+ValeurCmp = ATMEGA328-P;
+IdModule  = dip_sockets:DIP-28__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /547443D4/54744EC8;
+Reference = R1;
+ValeurCmp = 1k;
+IdModule  = discret:R3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /547443D4/5474508A;
+Reference = R2;
+ValeurCmp = 1k;
+IdModule  = discret:R3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /547443D4/54744EB4;
+Reference = R3;
+ValeurCmp = 1k;
+IdModule  = discret:R3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /547443D4/54745076;
+Reference = R4;
+ValeurCmp = 1k;
+IdModule  = discret:R3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /547443D4/54744633;
+Reference = U1;
+ValeurCmp = 74LS595;
+IdModule  = dip_sockets:DIP-14__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /547443D4/547446F4;
+Reference = U2;
+ValeurCmp = 74LS595;
+IdModule  = dip_sockets:DIP-14__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /547449EF/54744A0F;
+Reference = U3;
+ValeurCmp = 7805;
+IdModule  = discret:TO220;
+EndCmp
+
+BeginCmp
+TimeStamp = /5474429B;
+Reference = X1;
+ValeurCmp = CRYSTAL;
+IdModule  = discret:HC-33UV;
+EndCmp
+
+EndListe
