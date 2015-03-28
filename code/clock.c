@@ -1,5 +1,5 @@
 /*
- Propeller clock sample code for Atmega8A
+ Propeller clock sample code for Atmega328P
  */
 
 #include <avr/io.h>
